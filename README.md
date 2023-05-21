@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erentaskiran
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript,react,html,css
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eren.tas3535@gmail.com 
 
