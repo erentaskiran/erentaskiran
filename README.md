@@ -48,5 +48,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/eren-taşkıran/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="eren-taşkıran" height="50" width="50" />
-<a href="https://leetcode.com/eren_taskiran/" target="blank">><img align="center" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png)https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="eren-taşkıran" height="50" width="50" />
+<a href="https://leetcode.com/eren_taskiran/" target="blank">><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="eren-taşkıran" height="50" width="50" />
 </a>
