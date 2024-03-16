@@ -48,7 +48,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/eren-taşkıran/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="eren-taşkıran" height="50" width="50" />
-<a href="https://leetcode.com/eren_taskiran/" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width={25} height={25} viewBox="0 0 24 24" id="leetcode">
+<a href="https://leetcode.com/eren_taskiran/" target="blank"><svg xmlns="http://www.w3.org/2000/svg" width={50} height={50} viewBox="0 0 24 24" id="leetcode">
                     <path
                       fill="#B3B1B0"
                       d="M22 14.355c0-.742-.564-1.346-1.26-1.346H10.676c-.696 0-1.26.604-1.26 1.346s.563 1.346 1.26 1.346H20.74c.696.001 1.26-.603 1.26-1.346z"
