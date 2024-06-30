@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Java, Go**
+- 🌱 I’m currently learning **Go**
 
 - 🧑‍🎓 I’m studying at **Marmara University**
 
